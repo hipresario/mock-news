@@ -1,1 +1,1 @@
-assignment
+client side: galaxy-news
