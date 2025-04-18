@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install project libraries.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -45,5 +49,5 @@ Simple React bootstrapped with ChartGPT in few hours.
 
 - The problem is to handle large incoming news and limit memory usage and also control the display items
 - I am familiar with React, and it's simple to start, build and deploy.
-- I would like to improve the data structures used if given more time, mostly in filter conditions and
-- also will provide a full view router of all news since client connected query by time, filter etc. 
+- I would like to improve the data structures used if given more time, mostly in filter conditions,
+- write unit tests and also will provide a full view router of all news since client connected query by time, filter etc. 
